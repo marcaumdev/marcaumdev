@@ -29,3 +29,8 @@ Eu estudo Desenvolvimentos de sistemas no Senai, e pretendo atuar na área!
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## Total de visitas no meu perfil :detective:
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/Marcaum04/count.svg" />
+ </p>
