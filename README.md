@@ -1,8 +1,8 @@
 ## Bem-Vindo! 👋
-Eu estudo Desenvolvimentos de sistemas no Senai, e pretendo atuar na área!
+Eu sou formado em Desenvolvimento de sistemas pelo Senai!
 - 🔭 Eu gosto de aprender coisas novas em meu tempo livre
-- 🌱 Estudante na São Judas, Eu tenho habilidade com programação
-- 🤝 Sou aberto a propostas de emprego e pretendo atuar como FullStack!
+- 🌱 Estudante na UNINOVE, Eu tenho habilidade com programação
+- 🤝 Sou aberto a propostas de emprego e pretendo atuar como Professor!
 
 ## Dados 📊
 <div>
