@@ -1,7 +1,7 @@
 ## Bem-Vindo! 👋
 Eu sou formado em Desenvolvimento de sistemas pelo Senai!
 - 🔭 Eu gosto de aprender coisas novas em meu tempo livre
-- 🌱 Estudante na UNINOVE, Eu tenho habilidade com programação
+- 🌱 Estudante no SENAI, Eu tenho habilidade com programação
 - 🤝 Sou aberto a propostas de emprego e pretendo atuar como Professor!
 
 ## Dados 📊
