@@ -4,7 +4,7 @@ Eu sou formado em Desenvolvimento de sistemas pelo Senai e estou cursando Ciênc
 - 🌱 Estudante no SENAI-SP, Eu tenho habilidade com desenvolvimento de softwares e análise de dados!
 - 🤝 Sou aberto a networking!
 - 💼 Atuando como professor pelo SENAI-SP
-- 
+  
 ## Dados 📊
 <div>
   <a href="https://github.com/marcaumdev">
