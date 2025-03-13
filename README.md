@@ -1,9 +1,10 @@
 ## Bem-Vindo! 👋
-Eu sou formado em Desenvolvimento de sistemas pelo Senai!
+Eu sou formado em Desenvolvimento de sistemas pelo Senai e estou cursando Ciência de dados!
 - 🔭 Eu gosto de aprender coisas novas em meu tempo livre
-- 🌱 Estudante no SENAI, Eu tenho habilidade com programação
-- 🤝 Sou aberto a propostas de emprego e pretendo atuar como Professor!
-
+- 🌱 Estudante no SENAI-SP, Eu tenho habilidade com desenvolvimento de softwares e análise de dados!
+- 🤝 Sou aberto a networking!
+- 💼 Atuando como professor pelo SENAI-SP
+- 
 ## Dados 📊
 <div>
   <a href="https://github.com/marcaumdev">
